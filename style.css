@@ -1,0 +1,23 @@
+*{
+    padding: 5px;
+    margin: 0px;
+}
+nav{
+    padding: 5px;
+    display: flex;
+
+}
+.main{
+    padding-left: 60%;
+}
+.span1{
+    padding:20px;
+    /* margin-top: 10px; */
+    opacity: 0.6;
+}
+/* #bgimg{
+    background-image: url(./images/image-web-3-desktop.jpg);
+    height: 50%;
+    width: 50%;
+    background-size: cover ; */
+/* } */
