@@ -61,15 +61,43 @@ nav{
 }
 .img2{
     margin-top: 100px;
+    margin-left: 20px;
 }
 .img3{
-    margin-top: -275px;
-    margin-left: 400px;
+    margin-top: -150px;
+    margin-left: 510px;
 }
 .img4{
-    margin-left: 800px;
-    margin-top: -275px;
+    margin-left: 1060px;
+    margin-top: -130px;
 }
 .pic1{
     color: black;
+    margin-left: 190px;
+    margin-top: -170px;
+    font-weight: bold;
+}
+.fsize{
+    color: tomato;
+    font-size: 30px;
+}
+.fsize1{
+    font-size: 20px;
+}
+.fsize2{
+    font-size: 13px;
+    opacity: 0.6;
+}
+.pic2{
+    color: black;
+    margin-left: 680px;
+    margin-top: -160px;
+    font-weight: bold;
+}
+.pic3{
+    color: black;
+    margin-left: 1240px;
+    margin-top: px;
+    font-weight: bold;
+    margin-top: -170px;
 }
